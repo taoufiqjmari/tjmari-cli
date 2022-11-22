@@ -1,0 +1,26 @@
+{
+  "name": "tjmari-cli",
+  "version": "1.0.0",
+  "description": "Personal CLI",
+  "main": "index.js",
+  "bin": {
+    "tjmari": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoufiqjmari/tjmari-cli.git"
+  },
+  "author": "@taoufiqjmari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taoufiqjmari/tjmari-cli/issues"
+  },
+  "homepage": "https://github.com/taoufiqjmari/tjmari-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.1"
+  }
+}
